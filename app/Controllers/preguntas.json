@@ -1,0 +1,529 @@
+[{
+    "encuesta": "A",
+    "aspecto": "A",
+    "no_pregunta": "1",
+    "pregunta": "Explica de manera clara los contenidos de la asignatura.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "A",
+    "no_pregunta": "2",
+    "pregunta": "Relaciona los contenidos de la asignatura con los contenidos de otras.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "A",
+    "no_pregunta": "3",
+    "pregunta": "Resuelve las dudas relacionadas con los contenidos de la asignatura.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "A",
+    "no_pregunta": "4",
+    "pregunta": "Propone ejemplos o ejercicios que vinculan la asignatura con la práctica profesional.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "A",
+    "no_pregunta": "5",
+    "pregunta": "Explica la utilidad de los contenidos teóricos y prácticos para la actividad profesional.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "B",
+    "no_pregunta": "6",
+    "pregunta": "Cumple con los acuerdos establecidos al inicio de la asignatura.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "B",
+    "no_pregunta": "7",
+    "pregunta": "Durante el curso establece las estrategias adecuadas necesarias para lograr el aprendizaje deseado.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "B",
+    "no_pregunta": "8",
+    "pregunta": "El programa presentado al principio de la asignatura se cubre totalmente.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "C",
+    "no_pregunta": "9",
+    "pregunta": "Incluye experiencias de aprendizaje en lugares diferentes al aula (talleres, laboratorios, empresa, comunidad, etc.).",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "C",
+    "no_pregunta": "10",
+    "pregunta": "Utiliza para el aprendizaje las herramientas de interacción de las tecnologías actuales de la información (correo electrónico, chats, plataformas, etc.).",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "C",
+    "no_pregunta": "11",
+    "pregunta": "Organiza actividades que me permiten ejercitar mi expresión oral y escrita.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "C",
+    "no_pregunta": "12",
+    "pregunta": "Relaciona los contenidos de la asignatura con la industria y la sociedad a nivel local, regional, nacional e internacional.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "C",
+    "no_pregunta": "13",
+    "pregunta": "Usa ejemplos y casos relacionados con la vida real",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "D",
+    "no_pregunta": "14",
+    "pregunta": "Adapta las actividades para atender los diferentes estilos de aprendizaje de los estudiantes.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "D",
+    "no_pregunta": "15",
+    "pregunta": "Promueve el autodidactismo y la investigación.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "D",
+    "no_pregunta": "16",
+    "pregunta": "Promueve actividades participativas que me permiten colaborar con mis compañeros con una actitud positiva.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "D",
+    "no_pregunta": "17",
+    "pregunta": "Estimula la reflexión sobre la manera en que aprendes.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "D",
+    "no_pregunta": "18",
+    "pregunta": "Se involucra en las actividades propuestas al grupo.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "D",
+    "no_pregunta": "19",
+    "pregunta": "Presenta y expone las clases de manera organizada y estructurada.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "D",
+    "no_pregunta": "20",
+    "pregunta": "Utiliza diversas estrategias, métodos, medios y materiales.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "E",
+    "no_pregunta": "21",
+    "pregunta": "Muestra compromiso y entusiasmo en sus actividades docentes.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "E",
+    "no_pregunta": "22",
+    "pregunta": "Toma en cuenta las necesidades, intereses y expectativas del grupo.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "E",
+    "no_pregunta": "23",
+    "pregunta": "Propicia el desarrollo de un ambiente de respeto y confianza.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "E",
+    "no_pregunta": "24",
+    "pregunta": "Propicia la curiosidad y el deseo de aprender.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "E",
+    "no_pregunta": "25",
+    "pregunta": "Reconoce los éxitos y logros en las actividades de aprendizaje.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "E",
+    "no_pregunta": "26",
+    "pregunta": "Existe la impresión de que se toman represalias con algunos estudiantes.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "E",
+    "no_pregunta": "27",
+    "pregunta": "Hace interesante la asignatura.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "F",
+    "no_pregunta": "28",
+    "pregunta": "Identifica los conocimientos y habilidades de los estudiantes al inicio de la asignatura o de cada unidad.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "F",
+    "no_pregunta": "29",
+    "pregunta": "Proporciona información para realizar adecuadamente las actividades de evaluación.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "F",
+    "no_pregunta": "30",
+    "pregunta": "Toma en cuenta las actividades realizadas y los productos como evidencias para la calificación y acreditación de la asignatura.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "F",
+    "no_pregunta": "31",
+    "pregunta": "Considera los resultados de la evaluación (asesorí­as, trabajos complementarios, búsqueda de información, etc.) para realizar mejoras en el aprendizaje.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "F",
+    "no_pregunta": "32",
+    "pregunta": "Da a conocer las calificaciones en el plazo establecido.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "F",
+    "no_pregunta": "33",
+    "pregunta": "Da oportunidad de mejorar los resultados de la evaluación del aprendizaje.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "F",
+    "no_pregunta": "34",
+    "pregunta": "Muestra apertura para la corrección de errores de apreciación y evaluación.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "F",
+    "no_pregunta": "35",
+    "pregunta": "Otorga calificaciones imparciales.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "G",
+    "no_pregunta": "36",
+    "pregunta": "Desarrolla la clase en un clima de apertura y entendimiento.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "G",
+    "no_pregunta": "37",
+    "pregunta": "Escucha y toma en cuenta las opiniones de los estudiantes.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "G",
+    "no_pregunta": "38",
+    "pregunta": "Muestra congruencia entre lo que dice y lo que hace.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "H",
+    "no_pregunta": "39",
+    "pregunta": "Asiste a clases regular y puntualmente.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "H",
+    "no_pregunta": "40",
+    "pregunta": "Fomenta la importancia de contribuir a la conservación del medio ambiente.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "H",
+    "no_pregunta": "41",
+    "pregunta": "Promueve mantener limpias y ordenadas las instalaciones.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "H",
+    "no_pregunta": "42",
+    "pregunta": "Es accesible y está dispuesto a brindarte ayuda académica.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "I",
+    "no_pregunta": "43",
+    "pregunta": "Emplea las tecnologí­as de la información y de la comunicación como un medio que facilite el aprendizaje de los estudiantes.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "I",
+    "no_pregunta": "44",
+    "pregunta": "Promueve el uso de diversas herramientas, particularmente las digitales, para gestionar (recabar, procesar, evaluar y usar) información.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "I",
+    "no_pregunta": "45",
+    "pregunta": "Promueve el uso seguro, legal y ético de la información digital.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "J",
+    "no_pregunta": "46",
+    "pregunta": "En general, pienso que es un buen docente",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "J",
+    "no_pregunta": "47",
+    "pregunta": "Estoy satisfecha o satisfecho por mi nivel de desempeño y aprendizaje logrado gracias a la labor del docente.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "A",
+    "aspecto": "J",
+    "no_pregunta": "48",
+    "pregunta": "Yo recomendaría a este docente a otros compañeros.",
+    "respuestas": "5) Totalmente de acuerdo 4) De acuerdo 3) Indiferente 2) En desacuerdo 1) Altamente en desacuerdo",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "A",
+    "no_pregunta": "1",
+    "pregunta": "Acredita un diplomado en formación docente  o profesional , o realiza una estadía técnica en su área de formación, y asiste a un evento (congreso, simposio, convención, entre otros),  y acredita cursos de formación docente y/o profesional y muestra evidencias de aplicación de mejora en su práctica e",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "A",
+    "no_pregunta": "2",
+    "pregunta": "Cuenta con el título y la cédula de licenciatura y posgrado.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "A",
+    "no_pregunta": "3",
+    "pregunta": "Diseña un curso de actualización docente o profesional que considere: la guía de sesión, cronograma y los  materiales didácticos, y participa en la impartición de cursos  entregando el reporte final.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "B",
+    "no_pregunta": "4",
+    "pregunta": "Participa en la academia  y grupos de trabajo o comités de evaluación ypláticas de induccióno en exámenes de nuevo ingreso o promoción de las carreras del instituto y pertenece a asociaciones académicas o profesionales nacionales y/o internacionales.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "B",
+    "no_pregunta": "5",
+    "pregunta": "Realiza el avance programático de curso y/o  diseña la instrumentación didáctica en el seno de las academias por áreas del conocimiento (con docentes que dan la misma asignatura),  y los presenta en tiempo y forma, y da seguimiento a lo programado,y realiza las acciones necesarias para propiciar el",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "B",
+    "no_pregunta": "6",
+    "pregunta": "Entrega al Departamento Académico una relación de bibliografía básica y de consulta sugerida para mantener actualizado el acervo bibliográfico de su asignatura, y prepara presentaciones  electrónicas o antologías para sus clases, y propone el uso de tecnologías de la información y las implementa en",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "B",
+    "no_pregunta": "7",
+    "pregunta": "Asiste a / Participa en: -Eventos institucionales (honores a la bandera, ceremonia de inicio de cursos, graduaciones). -Pláticas o reuniones informativas convocadas por grupos de trabajo con el fin de mejorar la vida institucional. - Con su grupo a pláticas de formación integral como por ejemplo cur",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "C",
+    "no_pregunta": "8",
+    "pregunta": "Planea  y ejecuta actividades para el fortalecimiento del aprendizaje como reforzamiento al totalde sus asignaturas con representantes de los sectores empresarial, gubernamental y social (conferencias, visitas industriales, talleres, foros, seminarios, paneles, entre otras),  articulándolo en conjun",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "C",
+    "no_pregunta": "9",
+    "pregunta": "Desarrolla, administra, Concerta y asesora proyecto de  residencia profesional, de servicio social, de investigación, innovación o incubación de empresas que den respuesta a las necesidades planteadas por los diferentes sectores de la sociedad.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "C",
+    "no_pregunta": "10",
+    "pregunta": "Desarrolla y  realiza un curso de capacitación,  participa en el diseño de un diplomado,  realiza un proyecto, da  asesoría técnica, o realiza  actividades,   para los sectores empresarial, gubernamental y social.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "D",
+    "no_pregunta": "11",
+    "pregunta": "Presenta informe final de proyecto de investigación disciplinar o educativa, o tiene un proyecto terminado en el periodo anterior y presenta un nuevo protocolo de proyecto de investigación disciplinar o educativa.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "D",
+    "no_pregunta": "12",
+    "pregunta": "Participa en grupos o redes de investigación (área de conocimiento de su competencia o educativos).",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "D",
+    "no_pregunta": "13",
+    "pregunta": "Difunde y divulga los resultados de sus proyectos de investigación disciplinar o educativa.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "D",
+    "no_pregunta": "14",
+    "pregunta": "Involucra y asesora al o los estudiante (s)  en el proyecto de investigación, avala bitácora de actividades realizadas y el estudiante genera producto(s) como resultado de las actividades realizadas en la investigación.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "E",
+    "no_pregunta": "15",
+    "pregunta": "Cuenta con un diplomado referente a la tutoría y cursos que apoyan la actividad tutorial.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "E",
+    "no_pregunta": "16",
+    "pregunta": "Elabora el Programa de Acción Tutorial considerando: el diagnóstico, la competencia general y específica,  los contenidos, el cronograma de actividades,  los recursos necesarios,las estrategias, y la  evaluación,  y  lo presenta en tiempo y forma.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "E",
+    "no_pregunta": "17",
+    "pregunta": "Realiza sesiones planeadas,  realiza diagnóstico y canaliza estudiantes en riesgo, y promueve programas de apoyo para la formación integral del tutorado  y aplica estrategias.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}, {
+    "encuesta": "D",
+    "aspecto": "E",
+    "no_pregunta": "18",
+    "pregunta": "Entrega un reporte con las actividades desarrolladas en el Programa de Acción Tutorial, presenta evidencias del seguimiento, hace contrastación entre lo planeado y lo realizado, identifica sus áreas de oportunidad  y elabora una propuesta de realimentación del Programa.",
+    "respuestas": "",
+    "resp_val": "5",
+    "consecutivo": "2"
+}]

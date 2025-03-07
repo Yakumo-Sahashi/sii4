@@ -1,0 +1,28 @@
+{
+    "name": "project/code",
+    "description": "Framework",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "model\\": "app/Models/",
+            "config\\": "app/Config/",
+            "controller\\": "app/Controllers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yakumo-Sahashi",
+            "email": "Diego.Bollas@hotmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^9.37",
+        "illuminate/events": "^9.37",
+        "php-sage/sage": "^1.2",
+        "vlucas/phpdotenv": "^5.5",
+        "dompdf/dompdf": "^2.0",
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}

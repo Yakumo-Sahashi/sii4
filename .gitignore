@@ -1,0 +1,6 @@
+/controller
+/node_modules
+/vendor
+.env
+.babelrc
+db-anterior.rar

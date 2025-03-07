@@ -1,0 +1,11 @@
+<?php
+	namespace model;
+	use Illuminate\Database\Eloquent\Model;
+	require_once '../Config/BaseDatos.php';
+
+	class CatalogoPreguntas extends Model{
+		public $timestamps = false;
+		protected $table = 't_cat_preguntas';
+		protected $primaryKey = 'id_cat_preguntas';
+	}
+?>
