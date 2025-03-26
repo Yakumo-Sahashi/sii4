@@ -3,6 +3,7 @@
 	use config\Token;
 	require_once realpath('./vendor/autoload.php');
 	$fecha_inicio = date('Y-m-01');
+	$fecha_inicio_fin = date('Y-01-01');
 	$fecha_fin = date('Y-m-d');
 ?>
 <div>
@@ -37,13 +38,13 @@
 							<div class="row justify-content-center">
 								<div class="col-md-4 mb-3">
 									<div class="form-floating mb-3">
-										<input class="form-control" type="date" name="fecha_inicio" value="<?= $fecha_inicio ?>" required placeholder="Fecha Inicio">
+										<input class="form-control" type="date" name="fecha_inicio" value="<?= $fecha_inicio ?>" required placeholder="Fecha Inicio" max="<?= $fecha_fin ?>" min="<?= $fecha_inicio_fin?>">
 										<label for="fecha_inicio" class="text-primary text-small"><i class="fa-solid fa-calendar-day me-2"></i>Fecha Inicio</label>
 									</div>
 								</div>
 								<div class="col-md-4 mb-3">
 									<div class="form-floating mb-3">
-										<input class="form-control" type="date" name="fecha_fin" value="<?= $fecha_fin ?>" required placeholder="Fecha Fin">
+										<input class="form-control" type="date" name="fecha_fin" value="<?= $fecha_fin ?>" required placeholder="Fecha Fin" max="<?= $fecha_fin ?>" min="<?= $fecha_inicio_fin?>">
 										<label for="fecha_fin" class="text-primary text-small"><i class="fa-solid fa-calendar-days me-2"></i>Fecha Fin</label>
 									</div>
 								</div>
@@ -84,7 +85,7 @@
 		</div>
 	</div>
 </div>
-<div class="container p-0">
+<div class="container p-0 d-none" id="mostrar_incidencias">
 	<div class="row justify-content-center mb-3">
         <div class="col-md-12">
             <div class="table-responsive">

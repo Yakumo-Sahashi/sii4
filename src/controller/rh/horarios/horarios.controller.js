@@ -72,6 +72,7 @@ const mostrar_incidencias = async ()=>{
         }
     });  
     $("#btn_excel").removeClass("d-none");
+    $("#mostrar_incidencias").removeClass("d-none");
     bootstrap.Itma2.end_loader();
 }
 
@@ -87,15 +88,13 @@ const cargar_archivo = async () =>{
 
 
 $('#btn_reiniciar').on('click',() => {
+    bootstrap.Itma2.start_loader();
     $("#frm_incidencias")[0].reset();
-    $(`#tabla_incidencias`).html(``);  
+    $(`#tabla_incidencias`).html("");  
     $('#table_created_rooms').DataTable().destroy();  
-    $('#table_created_rooms').DataTable({
-        "language": {
-            "url": "./json/lenguaje.json"
-        }
-    });
     $("#btn_excel").addClass("d-none");
+    $("#mostrar_incidencias").addClass("d-none");
+    bootstrap.Itma2.end_loader();
     msj_exito("Formulario reiniciado!");
 });
 
