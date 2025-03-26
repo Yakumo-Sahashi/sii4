@@ -10,6 +10,19 @@
 * Composer
 * Host virtual "itma2.sii"
 
+## Conocimientos (programador) 💻
+
+* PHP
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* POO
+* MySQL
+* Modelo MVC
+* Node JS (Basico)
+* Composer (Basico)
+
 ## Comandos a ejecutar despues de descargar el proyecto 🔧
 
 ```
