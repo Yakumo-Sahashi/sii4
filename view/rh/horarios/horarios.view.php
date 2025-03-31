@@ -38,13 +38,13 @@
 							<div class="row justify-content-center">
 								<div class="col-md-4 mb-3">
 									<div class="form-floating mb-3">
-										<input class="form-control" type="date" name="fecha_inicio" value="<?= $fecha_inicio ?>" required placeholder="Fecha Inicio" max="<?= $fecha_fin ?>" min="<?= $fecha_inicio_fin?>">
+										<input class="form-control" type="date" name="fecha_inicio" value="<?= $fecha_inicio ?>" required placeholder="Fecha Inicio" max="<?= $fecha_fin ?>">
 										<label for="fecha_inicio" class="text-primary text-small"><i class="fa-solid fa-calendar-day me-2"></i>Fecha Inicio</label>
 									</div>
 								</div>
 								<div class="col-md-4 mb-3">
 									<div class="form-floating mb-3">
-										<input class="form-control" type="date" name="fecha_fin" value="<?= $fecha_fin ?>" required placeholder="Fecha Fin" max="<?= $fecha_fin ?>" min="<?= $fecha_inicio_fin?>">
+										<input class="form-control" type="date" name="fecha_fin" value="<?= $fecha_fin ?>" required placeholder="Fecha Fin" max="<?= $fecha_fin ?>">
 										<label for="fecha_fin" class="text-primary text-small"><i class="fa-solid fa-calendar-days me-2"></i>Fecha Fin</label>
 									</div>
 								</div>
