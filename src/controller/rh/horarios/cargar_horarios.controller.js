@@ -81,8 +81,10 @@ const actualizar_hora_final = (inicio, fin) => {
     for (let i = inicio; i < (22); i++) {
         if (i < 10) {
             opciones = opciones + `<option value="0${i}:00">0${i}:00</option>`;
+            opciones = opciones + `<option value="0${i}:30">0${i}:30</option>`;
         } else {
             opciones = opciones + `<option value="${i}:00">${i}:00</option>`;
+            opciones = opciones + `<option value="${i}:30">${i}:30</option>`;
         }
     }         
     $(`#hora_fin_${fin}`).html(opciones);
@@ -95,8 +97,10 @@ const inicio_hora_add = (inicio, fin) => {
     for (let i = inicio; i < (22); i++) {
         if (i < 10) {
             opciones = opciones + `<option value="0${i}:00">0${i}:00</option>`;
+            opciones = opciones + `<option value="0${i}:30">0${i}:30</option>`;
         } else {
             opciones = opciones + `<option value="${i}:00">${i}:00</option>`;
+            opciones = opciones + `<option value="${i}:30">${i}:30</option>`;
         }
     }         
     $(`#hora_inicio_${fin}`).html(opciones);

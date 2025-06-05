@@ -84,7 +84,8 @@
 																		<select class="form-select" name="hora_inicio_<?=$dias[$i]?>1" id="hora_inicio_<?=$dias[$i]?>1">
 																			<option value="">--:--</option>
 																			<?php for ($j = 7; $j < 21; $j++) : ?>
-																				<option value="<?= $j ?>"><?= $j > 9 ? $j : '0' . $j ?>:00</option>
+																				<option value="<?= $j ?>:00"><?= $j > 9 ? $j : '0' . $j ?>:00</option>
+																				<option value="<?= $j ?>:30"><?= $j > 9 ? $j : '0' . $j ?>:30</option>
 																			<?php endfor ?>
 																		</select>
 																	</div>
