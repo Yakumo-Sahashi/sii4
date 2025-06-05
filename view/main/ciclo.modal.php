@@ -7,7 +7,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <img src="<?=DEP_IMG?>ciclo.webp" class="img-fluid" alt="ciclo">
+        <img id="img_calendario" src="<?=DEP_IMG?>ciclo.webp" class="img-fluid" alt="ciclo">
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary text-white" data-bs-dismiss="modal"><i class="fas fa-sign-out-alt"></i> Salir</button>

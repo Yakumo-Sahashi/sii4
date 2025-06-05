@@ -32,14 +32,16 @@ const mostrar_info =async()=>{
     let tabla = ``;
     resultado.map(informacion=>{
         let {id_personal,rfc,nombre_persona,apellido_paterno,apellido_materno,descripcion_puesto} = informacion;
-        tabla+=`
-            <tr>
-                <td>${id_personal}</td>
-                <td>${rfc}</td>
-                <td>${nombre_persona+' '+apellido_paterno+' '+apellido_materno}</td>
-                <td>${descripcion_puesto}</td>
-            </tr>
-        `;
+        if(id_personal != 0){
+            tabla+=`
+                <tr>
+                    <td>${id_personal}</td>
+                    <td>${rfc}</td>
+                    <td>${nombre_persona+' '+apellido_paterno+' '+apellido_materno}</td>
+                    <td>${descripcion_puesto}</td>
+                </tr>
+            `;
+        }
     });
     $(`#contenido_tabla_asignar_puesto_personal`).html(`${tabla}`);  
     $('#tabla_asignar_puesto_personal').DataTable({

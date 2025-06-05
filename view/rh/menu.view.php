@@ -28,6 +28,10 @@
                         <i class="fa-solid fa-user-tie me-2"></i>
                         <span class="small">Jefes</span>
                     </a>
+                    <a class="nav-link collapsed mb-2" href="<?= Router::redirigir('calendario')?>">
+                        <i class="fa-solid fa-calendar-week me-2"></i>
+                        <span class="small">Actualizar calendario</span>
+                    </a>
                     <a class="nav-link collapsed mb-2" href="<?= Router::redirigir('horarios_registro') ?>">
                         <i class="fa-solid fa-house-laptop me-2"></i>
                         <span class="small">Registro Horarios</span>

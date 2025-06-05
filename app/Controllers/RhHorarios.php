@@ -346,6 +346,45 @@ use model\TablaRegistroTemp;
                 echo json_encode(["0","No se ha eliminado el horario!"]);
             }
 		}
+		static function actualizar_calendario(){
+			$directorio = "../../public/img/";
+
+			if (!file_exists($directorio)) {
+				mkdir($directorio, 0755, true);
+			}
+
+			$archivo = $_FILES['archivo'];
+			$rutaDestino = $directorio . "ciclo.webp";
+			$tipoArchivo = strtolower(pathinfo($rutaDestino, PATHINFO_EXTENSION));
+
+			// Validar que es imagen
+			$esImagen = getimagesize($archivo["tmp_name"]);
+			if ($esImagen === false) {
+				echo json_encode(["0","El archivo no es una imagen válida."]);
+				exit;
+			}
+
+			// Validar tamaño (máximo 5MB)
+			if ($archivo["size"] > 2 * 1024 * 1024) {
+				echo json_encode(["0","El archivo es demasiado grande. limite 2MB"]);
+				exit;
+			}
+
+			// Validar tipo de archivo
+			$tiposPermitidos = ["jpg", "jpeg", "png","webp"];
+			if (!in_array($tipoArchivo, $tiposPermitidos)) {
+				echo json_encode(["0","Solo se permiten imágenes JPG, JPEG, PNG y WEBP."]);
+				exit;
+			}
+
+			// Mover archivo al servidor
+			if (move_uploaded_file($archivo["tmp_name"], $rutaDestino)) {
+				echo json_encode(["1","Imagen actualizada con exito!"]);
+			} else {
+				echo json_encode(["0","Ocurrió un error al subir la imagen."]);
+			}
+
+		}
 	}
 	call_user_func('RhHorarios::'.$_POST['funcion']);
 ?>

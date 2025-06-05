@@ -80,17 +80,17 @@ require_once realpath('./vendor/autoload.php');
                                     </div>
                                 </div>
                             </a>
-                        </div> --><!-- 
+                        </div> -->
                         <div class="col">
-                            <a href="<?= Router::redirigir('personal') ?>" class="btn w-100 p-0">
+                            <a href="<?= Router::redirigir('calendario') ?>" class="btn w-100 p-0">
                                 <div class="card shadow p-3 itma2-card itma2-card-hover sin-scroll">
                                     <div class="card-body text-center">
-                                        <i class="fa-solid fa-people-group fa-4x mx-auto d-block"></i>
-                                        <span class="d-block mt-3">Personal</span>
+                                        <i class="fa-solid fa-calendar-week fa-4x mx-auto d-block"></i>
+                                        <span class="d-block mt-3">Actualizar calendario</span>
                                     </div>
                                 </div>
                             </a>
-                        </div> -->
+                        </div> 
                         <div class="col">
                             <a href="<?= Router::redirigir('horarios_registro') ?>" class="btn w-100 p-0">
                                 <div class="card shadow p-3 itma2-card itma2-card-hover sin-scroll">

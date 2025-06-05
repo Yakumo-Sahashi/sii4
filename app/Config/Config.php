@@ -181,6 +181,7 @@
             'horarios'=>['url'=>'rh/horarios/horarios','titulo'=>'Horarios'],
             'horarios_registro'=>['url'=>'rh/horarios/registro_horario','titulo'=>'Registro Horarios'],
             'listado_horario'=>['url'=>'rh/horarios/listado_horario','titulo'=>'Listado Horarios'],
+            'calendario'=>['url'=>'rh/horarios/calendario','titulo'=>'Actualizar Calendario'],
         ],
 
         'admin' => [
